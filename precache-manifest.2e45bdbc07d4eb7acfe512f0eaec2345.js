@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3242b9c8271e78d4571b",
-    "url": "/U-deline/static/css/main.46438174.chunk.css"
+    "revision": "5a5e966a959b405d26a5",
+    "url": "/U-deline/static/css/main.0dab20c7.chunk.css"
   },
   {
-    "revision": "3242b9c8271e78d4571b",
-    "url": "/U-deline/static/js/main.cb283e7c.chunk.js"
+    "revision": "5a5e966a959b405d26a5",
+    "url": "/U-deline/static/js/main.0f7cb9cb.chunk.js"
   },
   {
     "revision": "7f5dc4a736913415f2f4",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/U-deline/static/media/footerbg1.8f98df26.png"
   },
   {
-    "revision": "cc363daee10fc1ef88690f2ef09f6445",
+    "revision": "d79f812fc631a38acdb1b6873f38602e",
     "url": "/U-deline/index.html"
   }
 ];
