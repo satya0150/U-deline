@@ -1,5 +1,5 @@
 {
-  "main.css": "/U-deline/static/css/main.74a86fd1.chunk.css",
+  "main.css": "/U-deline/static/css/main.60b1a5d8.chunk.css",
   "main.js": "/U-deline/static/js/main.10506f0f.chunk.js",
   "main.js.map": "/U-deline/static/js/main.10506f0f.chunk.js.map",
   "runtime~main.js": "/U-deline/static/js/runtime~main.c363ab87.js",
@@ -10,9 +10,9 @@
   "static/js/3.3b7755ae.chunk.js": "/U-deline/static/js/3.3b7755ae.chunk.js",
   "static/js/3.3b7755ae.chunk.js.map": "/U-deline/static/js/3.3b7755ae.chunk.js.map",
   "index.html": "/U-deline/index.html",
-  "precache-manifest.896866e306ec7dabb3dc6b858a21933d.js": "/U-deline/precache-manifest.896866e306ec7dabb3dc6b858a21933d.js",
+  "precache-manifest.7fd49d5a7eb91968a621d6c5edb1d1e9.js": "/U-deline/precache-manifest.7fd49d5a7eb91968a621d6c5edb1d1e9.js",
   "service-worker.js": "/U-deline/service-worker.js",
   "static/css/2.81a8bbb6.chunk.css.map": "/U-deline/static/css/2.81a8bbb6.chunk.css.map",
-  "static/css/main.74a86fd1.chunk.css.map": "/U-deline/static/css/main.74a86fd1.chunk.css.map",
+  "static/css/main.60b1a5d8.chunk.css.map": "/U-deline/static/css/main.60b1a5d8.chunk.css.map",
   "static/media/App.css": "/U-deline/static/media/mentorbg.aa4e97e3.png"
 }
