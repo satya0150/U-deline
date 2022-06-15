@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "aad1c7983c3da7c65f95",
-    "url": "/U-deline/static/css/main.c4adc79c.chunk.css"
+    "revision": "771ba8095d612d6dfe2a",
+    "url": "/U-deline/static/css/main.e09018ac.chunk.css"
   },
   {
-    "revision": "aad1c7983c3da7c65f95",
-    "url": "/U-deline/static/js/main.ffbd1942.chunk.js"
+    "revision": "771ba8095d612d6dfe2a",
+    "url": "/U-deline/static/js/main.c787e1ff.chunk.js"
   },
   {
     "revision": "681cbdf3dd4758604e94",
@@ -24,15 +24,15 @@ self.__precacheManifest = [
     "url": "/U-deline/static/js/3.3b7755ae.chunk.js"
   },
   {
-    "revision": "aa4e97e3ceadf6a6d309610912d5383b",
-    "url": "/U-deline/static/media/mentorbg.aa4e97e3.png"
-  },
-  {
     "revision": "8f98df26d1c997b762f6da071a99707b",
     "url": "/U-deline/static/media/footerbg1.8f98df26.png"
   },
   {
-    "revision": "ab592a1e4abda13bed53d1c46f1d4c1b",
+    "revision": "aa4e97e3ceadf6a6d309610912d5383b",
+    "url": "/U-deline/static/media/mentorbg.aa4e97e3.png"
+  },
+  {
+    "revision": "fe58817fd96232cbe468baf1e3114cad",
     "url": "/U-deline/index.html"
   }
 ];
